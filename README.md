@@ -18,10 +18,10 @@ The project integrates mechanical CAD design, fluid dynamics simulation, and an 
 
 ## 📊 Results
 The final physical launch achieved a distance of 14.2m (well within the $13m \pm 3m$ objective), and the electronic deployment system successfully protected the egg payload upon landing.
-\
+<br>
 
 **Version Française**
-\
+<br>
 
 # 🚀 Fusée à Eau & Système de Déploiement de Parachute
 
